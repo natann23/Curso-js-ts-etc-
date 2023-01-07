@@ -1,0 +1,21 @@
+*{
+background-color: rgb(11, 4, 49);
+font-size: 40px;
+}
+h1{
+color: rgb(1, 1, 80);
+border-radius: 50vw;
+background-color:rgb(0, 245, 131);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+height: 50%;
+left: 59%;
+
+}
+
+h2{
+background-color: crimson;
+font-size: 55px;
+text-align: center;
+border-radius: 55vw;
+}
