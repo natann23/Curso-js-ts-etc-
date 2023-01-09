@@ -26,3 +26,12 @@ left: auto;
 text-decoration: gold;
 
 }
+
+h3{
+background-color: rgb(10, 250, 170);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+font-size: 45px;
+border-radius: 50vw;
+
+}
