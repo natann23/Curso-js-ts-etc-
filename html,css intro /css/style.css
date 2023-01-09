@@ -15,7 +15,14 @@ left: 59%;
 
 h2{
 background-color: crimson;
-font-size: 55px;
+font-size: 75px;
 text-align: center;
 border-radius: 55vw;
+}
+h2{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+height: auto;
+left: auto;
+text-decoration: gold;
+
 }
