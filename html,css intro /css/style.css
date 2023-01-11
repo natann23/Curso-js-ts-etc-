@@ -3,7 +3,7 @@ background-color: rgb(11, 4, 49);
 font-size: 40px;
 }
 h1{
-color: rgb(1, 1, 80);
+color: rgb(226, 226, 238);
 border-radius: 50vw;
 background-color:rgb(0, 245, 131);
 font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -14,12 +14,12 @@ left: 59%;
 }
 
 h2{
+color:burlywood;
 background-color: crimson;
 font-size: 75px;
 text-align: center;
 border-radius: 55vw;
-}
-h2{
+color:gold ;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 height: auto;
 left: auto;
@@ -33,5 +33,16 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 text-align: center;
 font-size: 45px;
 border-radius: 50vw;
+box-shadow: 85;
+}
 
+.id{
+font-size: 45px;
+text-align: center;
+color: crimson;
+}
+p{
+background-color: chartreuse;
+border-radius: 50vw;
+align-items: ;
 }
