@@ -1,54 +1,15 @@
-*{
-background-color: rgb(11, 4, 49);
-font-size: 40px;
-}
-h1{
-color: rgb(226, 226, 238);
-border-radius: 50vw;
-background-color:rgb(0, 245, 131);
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-text-align: center;
-height: 50%;
-left: 59%;
 
-}
+#teste{
+border-radius: 50vw;
+color: cornflowerblue;
+text-align: center;
+background-color: yellow;}
 
 h2{
-color:burlywood;
+font-family: Arial, Helvetica, sans-serif;
 background-color: crimson;
-font-size: 75px;
+border-radius: 80vw;
 text-align: center;
-border-radius: 55vw;
-color:gold ;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-height: auto;
-left: auto;
-text-decoration: gold;
+text-decoration-color: yellowgreen;
 
-}
-
-h3{
-background-color: rgb(10, 250, 170);
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-text-align: center;
-font-size: 45px;
-border-radius: 50vw;
-box-shadow: 85;
-}
-
-.id{
-font-size: 45px;
-text-align: center;
-color: crimson;
-}
-p{
-background-color: chartreuse;
-border-radius: 50vw;
-
-}
-.h3{
-background-color: rgb(0, 240, 208);
-font-size: 45px;
-text-align: center;
-border-radius: 50vw;
 }
