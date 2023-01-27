@@ -11,5 +11,10 @@ background-color: crimson;
 border-radius: 80vw;
 text-align: center;
 text-decoration-color: yellowgreen;
+}
 
+body{
+margin: 0;
+padding:0;
+background-color: gold;
 }
