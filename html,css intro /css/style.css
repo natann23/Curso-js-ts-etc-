@@ -1,13 +1,19 @@
+body{
+background-color: #07D962;
+background-image: url()
 
+}
 #teste{
 border-radius: 50vw;
-color: cornflowerblue;
+border-bottom: vw;
+color: #07D962;
 text-align: center;
-background-color: yellow;}
+background-color: #440a6b;
+}
 
 h2{
 font-family: Arial, Helvetica, sans-serif;
-background-color: crimson;
+background-color:azure;
 border-radius: 50vw;
 text-align: center;
 text-decoration-color: yellowgreen;
