@@ -27,6 +27,14 @@ background-color: crimson;
 border-radius: 50vw;
 }
 
-spam{
-    color: turquoise;
+.logo{
+border-radius: 50vw;
+width: 4.75%;
+text-align: left;
+}
+
+div{
+font-size: 25px;
+color: white;
+inline-size:auto;
 }
