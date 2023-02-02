@@ -37,4 +37,5 @@ div{
 font-size: 25px;
 color: white;
 inline-size:auto;
+justify-content: space-between;
 }
