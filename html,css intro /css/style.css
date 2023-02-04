@@ -13,11 +13,10 @@ font-family: Arial, Helvetica, sans-serif;
 background-color:azure;
 border-radius: 50vw;
 text-align: center;
-text-decoration-color: yellowgreen;
+text-decoration-color: yellowgreen;;
 }
 
 .welcome{
-font-size: 45px;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 text-align: center;
 background-color: crimson;
@@ -26,8 +25,9 @@ border-radius: 50vw;
 
 .logo{
 border-radius: 50vw;
-width: 4.75%;
+width: 5.75%;
 text-align: left;
+
 }
 
 div{
@@ -35,4 +35,9 @@ font-size: 25px;
 color: white;
 inline-size:auto;
 justify-content: space-between;
+}
+.texto{
+font-size: 35px;
+color: burlywood;
+text-align: justify;
 }
