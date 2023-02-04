@@ -1,13 +1,10 @@
 body{
 background-color: #003d1b;
-background-image: url()
-
+text-align: center;
 }
 #teste{
-border-radius: 50vw;
 border-bottom: vw;
 color: #07D962;
-text-align: center;
 background-color: #440a6b;
 }
 
