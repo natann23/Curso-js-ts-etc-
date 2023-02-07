@@ -1,5 +1,5 @@
 body{
-background-color: #003d1b;
+background-color: #052413;
 text-align: center;
 }
 #teste{
@@ -45,15 +45,14 @@ button{
 font-family: 'Times New Roman', Times, serif;
  color: rgb(240, 1, 73);
  font-size: 45px;
-text-align: center;
 border-color: aqua;
-border-radius: 100vw;
-
+height: 20%;;
 }
 
 .coffe{
 text-align: center;
-color: whitesmoke;
+color: rgb(59, 3, 3);
 font-size: 45px;
--webkit-text-fill-color: blueviolet;
+-webkit-text-fill-color: gold;
+border-color: cornflowerblue;
 }
