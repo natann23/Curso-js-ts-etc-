@@ -32,12 +32,28 @@ text-align: left;
 
 div{
 font-size: 25px;
-color: white;
+color: rgb(5, 5, 5);
 inline-size:auto;
 justify-content: space-between;
 }
+
 .texto{
-font-size: 35px;
-color: burlywood;
-text-align: justify;
+font-size: 45px;
+}
+
+button{
+font-family: 'Times New Roman', Times, serif;
+ color: rgb(240, 1, 73);
+ font-size: 45px;
+text-align: center;
+border-color: aqua;
+border-radius: 100vw;
+
+}
+
+.coffe{
+text-align: center;
+color: whitesmoke;
+font-size: 45px;
+-webkit-text-fill-color: blueviolet;
 }
