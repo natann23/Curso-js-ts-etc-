@@ -1,0 +1,19 @@
+*{
+padding: 0;
+background-color: dodgerblue;
+
+}
+
+.book {
+font-size: 45px;
+color: goldenrod;
+border-radius: 50vw;
+background-color: chartreuse;
+text-align: center;
+}
+.icon1{
+text-align: center;
+height: 50vw;
+left: 50vw;
+
+}
