@@ -15,5 +15,7 @@ text-align: center;
 text-align: center;
 height: 50vw;
 left: 50vw;
+list-style: circle;
+grid-template-columns: max-content;
 
 }
